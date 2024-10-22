@@ -10,7 +10,7 @@
 ## Установка
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/markuz777/imgui-1.91.3-no-comments.git
+    git clone https://github.com/markuz777/imgui-cleaned.git
     ```
 
 2. Включите ImGui в свой проект, добавив необходимые файлы `.cpp` и `.h`.
@@ -35,7 +35,7 @@ This project contains the full version of the ImGui library version 1.91.3 with 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/imgui-1.91.3-no-comments.git
+    git clone https://github.com/markuz777/imgui-cleaned.git
     ```
 
 2. Integrate ImGui into your project by adding the necessary `.cpp` and `.h` files.
